@@ -8,5 +8,10 @@
 - 🌱 I’m currently learning Python, Web
 - 👯 I’m looking to collaborate on passionate person 
 - 🤔 I’m looking for help with anyone
-- 💬 Ask me about a computer hobbyist
+- 💬 I've a hobby of reading books
 - 📫 How to reach me: ghdic77@gmail.com
+
+
+**📕 Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
