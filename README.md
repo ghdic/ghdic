@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [동물해방 서평](https://marinelifeirony.tistory.com/118)
 - [css 초기화 하는 방법](https://marinelifeirony.tistory.com/117)
 - [intellij jsp & servlet & jstl 완벽 세팅하기](https://marinelifeirony.tistory.com/116)
 - [intellij tomcat서버 강제종료시 "tomcat 1099 is already in use" 에러 해결법](https://marinelifeirony.tistory.com/115)
 - [파이썬 Turtle을 사용해서 다양한 도형 그려보기](https://marinelifeirony.tistory.com/114)
-- [모방범 독후감](https://marinelifeirony.tistory.com/113)
 <!-- BLOG-POST-LIST:END -->
