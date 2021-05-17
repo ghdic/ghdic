@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Deep work 독후감](https://marinelifeirony.tistory.com/121)
 - [jsp 파일 업로드 예제](https://marinelifeirony.tistory.com/120)
 - [너의 췌장을 먹고 싶어 독후감](https://marinelifeirony.tistory.com/119)
 - [동물해방 서평](https://marinelifeirony.tistory.com/118)
 - [css 초기화 하는 방법](https://marinelifeirony.tistory.com/117)
-- [intellij jsp & servlet & jstl 완벽 세팅하기](https://marinelifeirony.tistory.com/116)
 <!-- BLOG-POST-LIST:END -->
