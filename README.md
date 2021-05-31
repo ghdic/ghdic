@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ATOMIC HABITS(아주 작은 습관의 힘) 독후감](https://marinelifeirony.tistory.com/126)
 - [파일 업로드 폼 만들기 & 업로드한 파일 삭제 구현](https://marinelifeirony.tistory.com/125)
 - [파이썬 regex 정규표현식으로 match된 부분 while문으로 하나씩 변경하기](https://marinelifeirony.tistory.com/124)
 - [Jsp 주기적으로 특정 메소드 호출하기](https://marinelifeirony.tistory.com/123)
 - [pymysql 특수문자 이모티콘 에러 발생 해결법](https://marinelifeirony.tistory.com/122)
-- [Deep work 독후감](https://marinelifeirony.tistory.com/121)
 <!-- BLOG-POST-LIST:END -->
