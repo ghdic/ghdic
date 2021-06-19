@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [국제통상의 기초와 이해 (제2판) - 이상직 해답](https://marinelifeirony.tistory.com/130)
 - [데이터베이스 오픈북 치트시트](https://marinelifeirony.tistory.com/128)
 - [성공과 실패를 결정하는 1%의 네트워크 원리 독후감](https://marinelifeirony.tistory.com/127)
 - [ATOMIC HABITS(아주 작은 습관의 힘) 독후감](https://marinelifeirony.tistory.com/126)
 - [파일 업로드 폼 만들기 & 업로드한 파일 삭제 구현](https://marinelifeirony.tistory.com/125)
-- [파이썬 regex 정규표현식으로 match된 부분 while문으로 하나씩 변경하기](https://marinelifeirony.tistory.com/124)
 <!-- BLOG-POST-LIST:END -->
