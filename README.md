@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Vscode 설치하기](https://marinelifeirony.tistory.com/134)
 - [코로나 바이러스 전세계 백신 관련 통계 데이터 보는 사이트](https://marinelifeirony.tistory.com/133)
 - [인텔리제이 콘솔 및 한글 메소드 깨짐 해결](https://marinelifeirony.tistory.com/132)
 - [비트코인(가상화폐)에 대한 나의 생각 정리](https://marinelifeirony.tistory.com/131)
 - [국제통상의 기초와 이해 (제2판) - 이상직 해답](https://marinelifeirony.tistory.com/130)
-- [데이터베이스 오픈북 치트시트](https://marinelifeirony.tistory.com/128)
 <!-- BLOG-POST-LIST:END -->
