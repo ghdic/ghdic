@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [텍스트 밑줄 커스터마이징](https://marinelifeirony.tistory.com/137)
 - [png 이미지 아이콘 파일 수정하지 않고 css로 색깔 변경하기](https://marinelifeirony.tistory.com/136)
-- [Buster "apt-get update" 이슈](https://marinelifeirony.tistory.com/135)
+- [Buster &quot;apt-get update&quot; 이슈](https://marinelifeirony.tistory.com/135)
 - [Ubuntu Vscode 설치하기](https://marinelifeirony.tistory.com/134)
 - [코로나 바이러스 전세계 백신 관련 통계 데이터 보는 사이트](https://marinelifeirony.tistory.com/133)
 <!-- BLOG-POST-LIST:END -->
