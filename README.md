@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [카카오톡 챗봇 코인 정보봇 만들기](https://marinelifeirony.tistory.com/139)
 - [카카오톡 챗봇 만들기&lpar;Javascript&rpar;](https://marinelifeirony.tistory.com/138)
 - [텍스트 밑줄 커스터마이징](https://marinelifeirony.tistory.com/137)
 - [png 이미지 아이콘 파일 수정하지 않고 css로 색깔 변경하기](https://marinelifeirony.tistory.com/136)
 - [Buster &quot;apt-get update&quot; 이슈](https://marinelifeirony.tistory.com/135)
-- [Ubuntu Vscode 설치하기](https://marinelifeirony.tistory.com/134)
 <!-- BLOG-POST-LIST:END -->
