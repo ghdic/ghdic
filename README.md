@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Python smtpllib를 이용한 이메일 보내기](https://marinelifeirony.tistory.com/143)
 - [tft 시즌 6.5 12.5v 공략 이모저모](https://marinelifeirony.tistory.com/142)
 - [정규 표현식&lpar;Regex&rpar;에 대해 알아보기](https://marinelifeirony.tistory.com/141)
 - [카카오톡 챗봇 퀴즈봇 만들기](https://marinelifeirony.tistory.com/140)
 - [카카오톡 챗봇 코인 정보봇 만들기](https://marinelifeirony.tistory.com/139)
-- [카카오톡 챗봇 만들기&lpar;Javascript&rpar;](https://marinelifeirony.tistory.com/138)
 <!-- BLOG-POST-LIST:END -->
