@@ -14,7 +14,7 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [루나코인 폭락 사태 정리](https://marinelifeirony.tistory.com/145)
+- [루나코인 폭락 사태 떨어진 이유 정리](https://marinelifeirony.tistory.com/145)
 - [유니티 오류 can&#39;t add script component](https://marinelifeirony.tistory.com/144)
 - [Python smtpllib를 이용한 이메일 보내기](https://marinelifeirony.tistory.com/143)
 - [tft 시즌 6.5 12.5v 공략 이모저모](https://marinelifeirony.tistory.com/142)
