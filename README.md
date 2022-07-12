@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [SW중심대학 공동해커톤 2022 후기](https://marinelifeirony.tistory.com/149)
 - [Cafe24 Spring boot + JPA 호스팅하기](https://marinelifeirony.tistory.com/148)
 - [Python 이미지파일&lpar;jpg&rpar; pdf로 바꾸기](https://marinelifeirony.tistory.com/147)
 - [파이썬 유튜브 영상 정보 다운로드하기 pytube](https://marinelifeirony.tistory.com/146)
 - [루나코인 폭락 사태 떨어진 이유 정리](https://marinelifeirony.tistory.com/145)
-- [유니티 오류 can&#39;t add script component](https://marinelifeirony.tistory.com/144)
 <!-- BLOG-POST-LIST:END -->
