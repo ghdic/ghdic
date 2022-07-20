@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [우영우 패러디가 불편한 사람들의 아이러니함](https://marinelifeirony.tistory.com/153)
 - [python pandas 중복된 데이터를 가진 행을 하나로 줄이기 reduce](https://marinelifeirony.tistory.com/152)
 - [어떻게 컴퓨터는 소스코드를 해석하고 작동할까?](https://marinelifeirony.tistory.com/150)
 - [SW중심대학 공동해커톤 2022 후기](https://marinelifeirony.tistory.com/149)
 - [Cafe24 Spring boot + JPA 호스팅하기](https://marinelifeirony.tistory.com/148)
-- [Python 이미지파일&lpar;jpg&rpar; pdf로 바꾸기](https://marinelifeirony.tistory.com/147)
 <!-- BLOG-POST-LIST:END -->
