@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [sphinx 파이썬 문서 github pages 배포](https://marinelifeirony.tistory.com/155)
 - [python 무료 vpn을 통해 ip 바꾸기](https://marinelifeirony.tistory.com/154)
 - [우영우 패러디가 불편한 사람들의 아이러니함](https://marinelifeirony.tistory.com/153)
 - [python pandas 중복된 데이터를 가진 행을 하나로 줄이기 reduce](https://marinelifeirony.tistory.com/152)
 - [어떻게 컴퓨터는 소스코드를 해석하고 작동할까?](https://marinelifeirony.tistory.com/150)
-- [SW중심대학 공동해커톤 2022 후기](https://marinelifeirony.tistory.com/149)
 <!-- BLOG-POST-LIST:END -->
