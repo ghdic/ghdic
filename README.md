@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [정보처리기사 2022 2회차 합격 후기&amp;팁](https://marinelifeirony.tistory.com/158)
 - [python 주식 퀀트&amp;백테스팅 관련 라이브러리 정리](https://marinelifeirony.tistory.com/157)
 - [github 이미 올라간 파일 레포에서 지우기](https://marinelifeirony.tistory.com/156)
 - [sphinx 파이썬 문서 github pages 배포](https://marinelifeirony.tistory.com/155)
 - [python 무료 vpn을 통해 ip 바꾸기](https://marinelifeirony.tistory.com/154)
-- [우영우 패러디가 불편한 사람들의 아이러니함](https://marinelifeirony.tistory.com/153)
 <!-- BLOG-POST-LIST:END -->
