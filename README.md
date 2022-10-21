@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [맥북 알캡쳐 대용 스크린샷 후 이미지 수정앱 추천 무료!](https://marinelifeirony.tistory.com/160)
 - [flutter &quot;Could not start Dart VM service HTTP server&quot; 에러 해결](https://marinelifeirony.tistory.com/159)
 - [정보처리기사 2022 2회차 합격 후기&amp;팁](https://marinelifeirony.tistory.com/158)
 - [python 주식 퀀트&amp;백테스팅 관련 라이브러리 정리](https://marinelifeirony.tistory.com/157)
 - [github 이미 올라간 파일 레포에서 지우기](https://marinelifeirony.tistory.com/156)
-- [sphinx 파이썬 문서 github pages 배포](https://marinelifeirony.tistory.com/155)
 <!-- BLOG-POST-LIST:END -->
