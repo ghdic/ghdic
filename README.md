@@ -14,9 +14,9 @@
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Python 공유변수 import 할때 주의할점](https://marinelifeirony.tistory.com/168)
 - [프로그래머들 실신시켰다는 전설의 코드](https://marinelifeirony.tistory.com/167)
 - [파이썬 프로젝트 추천! 아스키 아트&lpar;ASCII ART&rpar; 프로젝트](https://marinelifeirony.tistory.com/166)
 - [dartpad에서 bitwise not, 비트연산자 not 동작이 이상한이유](https://marinelifeirony.tistory.com/165)
 - [flutter MaterialApp을 활용하여 앱 요소 설정하기](https://marinelifeirony.tistory.com/164)
-- [알고리즘을 잘하면 프로그래밍도 잘할까?](https://marinelifeirony.tistory.com/161)
 <!-- BLOG-POST-LIST:END -->
